@@ -1,0 +1,6 @@
+1. Install the packages listed in the requirements.txt file.
+2. Now to start the Application, execute the 'main.py' file from the terminal using the following command:
+                python ./main.py
+3.Now click on the URL generated in the terminal to launch the Application.
+4.Application has Started Running.
+5.To Stop the Application, use ctrl+c in the terminal.
